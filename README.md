@@ -1,2 +1,2 @@
 # hcg-chaper-1
-this is repo of my hcg chapter 1
+This is repository of 560651023-HCG-chapter1
